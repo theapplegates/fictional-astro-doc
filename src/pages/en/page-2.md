@@ -4,6 +4,17 @@ description: Lorem ipsum dolor sit amet - 2
 layout: ../../layouts/MainLayout.astro
 ---
 
+CNN
+ —
+This Saturday just got twice as cute.
+
+The Toledo Zoo has announced the birth of two polar bear cubs, the first time polar bears have been born at the facility since 2012, according to an Instagram post from the zoo.
+
+The two bundles of joy were born December 1 to 24-year-old mother Crystal and 18-year-old father Nuka. The cubs’ gender is still unknown, says the zoo.
+
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Sed flavum. Stridore nato, Alcandrumque desint ostendit derat, longoque, eadem
