@@ -10,5 +10,5 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site: `http://astro.build`,
+	site: `https://stately-seahorse-e38298.netlify.app/en/introduction`,
 });
